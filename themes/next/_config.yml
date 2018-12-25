@@ -818,6 +818,7 @@ valine:
   appkey: ewb1Xlq3MUjXxGQqs7amrC0v
   notify: false
   verify: false
-  placeholder: "Say something."
+  placeholder: Say something.
   guest_info: nick,mail,link
+  avatar: mm
   pageSize: 10
