@@ -811,14 +811,3 @@ images: images
 
 # Theme version
 version: 5.1.4
-
-valine:
-  enable: true
-  appid: LoRrtiitu9zCpfmN6wV2aMSE-gzGzoHsz
-  appkey: ewb1Xlq3MUjXxGQqs7amrC0v
-  notify: false
-  verify: false
-  placeholder: Say something.
-  guest_info: nick,mail,link
-  avatar: mm
-  pageSize: 10
