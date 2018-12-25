@@ -814,8 +814,8 @@ version: 5.1.4
 
 valine:
   enable: true
-  app_id: LoRrtiitu9zCpfmN6wV2aMSE-gzGzoHsz
-  app_key: ewb1Xlq3MUjXxGQqs7amrC0v
+  appid: LoRrtiitu9zCpfmN6wV2aMSE-gzGzoHsz
+  appkey: ewb1Xlq3MUjXxGQqs7amrC0v
   notify: false
   verify: false
   placeholder: "Say something."
