@@ -13,3 +13,7 @@ $\\sum\\limits\_{i=1}^n{a\_i}$
 {% cq %}
 悄悄张开大结界
 {% endcq %}
+
+{% note primary %}
+悄悄张开大结界
+{% endnote %}
