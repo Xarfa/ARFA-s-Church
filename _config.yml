@@ -7,15 +7,15 @@ title: ARFA 教堂
 subtitle: 官方博客。
 description:
 keywords:
-author: ARFA & members
+author: ARFA & his members
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://arfa.netlify.com
+url: https://arfaschurch.netlify.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :id.htm
 permalink_defaults:
 
 # Directory
