@@ -344,7 +344,7 @@ font:
 mathjax:
   enable: true
   per_page: false
-  cdn: "1//cdn.bootcss.com/mathjax/2.7.5/MathJax.js"
+  cdn: "//cdn.bootcss.com/mathjax/2.7.5/MathJax.js"
 
 # Han Support docs: https://hanzi.pro/
 han: false
