@@ -4,7 +4,7 @@ date: 2018-10-02 00:00
 id: first-competion
 category: 比赛相关
 ---
-## $$\\text {ARFA 教堂的第一次洗礼赛事 题解}$$
+## $\\text{ARFA}$ 教堂的第一次洗礼赛事 题解
 
 ### 题目
 
