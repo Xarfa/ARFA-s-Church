@@ -13,7 +13,11 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+<<<<<<< HEAD
 url: https://arfaschurch.netlify.com
+=======
+url: https://arfachurch.netlify.com
+>>>>>>> 2e4095e8bf9cce84e7af88db9a49744f0336de10
 root: /
 permalink: :id.htm
 permalink_defaults:
