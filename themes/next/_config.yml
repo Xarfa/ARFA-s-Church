@@ -344,7 +344,7 @@ font:
 mathjax:
   enable: true
   per_page: false
-  cdn: //cdn.bootcss.com/mathjax/2.7.5/MathJax.js
+  cdn: "1//cdn.bootcss.com/mathjax/2.7.5/MathJax.js"
 
 # Han Support docs: https://hanzi.pro/
 han: false
@@ -379,8 +379,8 @@ changyan:
 # more info please open https://valine.js.org
 valine:
   enable: true
-  appid: LoRrtiitu9zCpfmN6wV2aMSE-gzGzoHsz # your leancloud application appid
-  appkey: ewb1Xlq3MUjXxGQqs7amrC0v # your leancloud application appkey
+  appid: "LoRrtiitu9zCpfmN6wV2aMSE-gzGzoHsz" # your leancloud application appid
+  appkey: "ewb1Xlq3MUjXxGQqs7amrC0v" # your leancloud application appkey
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: "Welcome to argue." # comment box placeholder
