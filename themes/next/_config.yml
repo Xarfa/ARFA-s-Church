@@ -813,6 +813,6 @@ images: images
 version: 5.1.4
 
 # MathJax Support
-mathjax:
-  enable: true
-  cdn: //cdn.bootcss.com/mathjax/2.7.5/MathJax.js
+# mathjax:
+  # enable: true
+  # cdn: //cdn.bootcss.com/mathjax/2.7.5/MathJax.js
