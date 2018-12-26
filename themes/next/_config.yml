@@ -347,7 +347,7 @@ mathjax:
   cdn: //cdn.bootcss.com/mathjax/2.7.5/MathJax.js
 
 # Han Support docs: https://hanzi.pro/
-han: true
+han: false
 
 # Swiftype Search API Key
 #swiftype_key:
