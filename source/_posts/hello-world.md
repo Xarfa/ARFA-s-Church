@@ -10,4 +10,6 @@ id: hello-world
 以下是测试：
 $\\sum\\limits\_{i=1}^n{a\_i}$
 
-{% cq %}{% endcq %}
+{% cq %}
+悄悄张开大结界
+{% endcq %}
