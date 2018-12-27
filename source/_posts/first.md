@@ -1,4 +1,4 @@
-﻿---
+---
 title: ARFA 教堂的第一次洗礼赛事 题解
 date: 2018-10-02 00:00
 id: first-competion
