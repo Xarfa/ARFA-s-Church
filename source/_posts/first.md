@@ -4,9 +4,8 @@ date: 2018-10-02 00:00
 id: first-competion
 category: 比赛相关
 ---
-<!--more-->
 ## $\\text{ARFA}$ 教堂的第一次洗礼赛事 题解
-
+<!--more-->
 ### 题目
 
 - $T1$ $\\ \\ \\ \\ $ [作业](https://www.luogu.org/problemnew/show/T47092) | [题解](https://www.alpha1022.me/articles/ae60a07c.htm)
